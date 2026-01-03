@@ -1,1 +1,1 @@
-A calculater developed in C# using Visual Studio حخ
+A calculater developed in C# using Visual Studio
